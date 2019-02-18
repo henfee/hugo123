@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://henfee.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Feb 2019 17:54:41 +0800</lastBuildDate>
+    
+	<atom:link href="http://henfee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>http://henfee.github.io/course/git/</link>
+      <pubDate>Sun, 17 Feb 2019 17:54:41 +0800</pubDate>
+      
+      <guid>http://henfee.github.io/course/git/</guid>
+      <description>course 1
+Git</description>
+    </item>
+    
+    <item>
+      <title>Day1</title>
+      <link>http://henfee.github.io/post/day1/</link>
+      <pubDate>Sun, 17 Feb 2019 16:49:00 +0800</pubDate>
+      
+      <guid>http://henfee.github.io/post/day1/</guid>
+      <description> Day 1 what&amp;rsquo;s new and fresh today I see:
+ hugo jupyter-book python test  </description>
+    </item>
+    
+    <item>
+      <title>Fintech</title>
+      <link>http://henfee.github.io/fintech/</link>
+      <pubDate>Sun, 17 Feb 2019 16:48:37 +0800</pubDate>
+      
+      <guid>http://henfee.github.io/fintech/</guid>
+      <description> fintech 101  my fintech101 course  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://henfee.github.io/about/</link>
+      <pubDate>Sun, 17 Feb 2019 16:48:21 +0800</pubDate>
+      
+      <guid>http://henfee.github.io/about/</guid>
+      <description> This is Xubin&amp;rsquo;s first hugo blog test Mission  How to use hugo to set a blog site quickly. How to upload a pic how to upload a video clip  </description>
+    </item>
+    
+  </channel>
+</rss>
